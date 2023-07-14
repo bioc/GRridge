@@ -1,7 +1,7 @@
 Package: GRridge
 Type: Package
 Title: Better prediction by use of co-data: Adaptive group-regularized ridge regression
-Version: 1.25.0
+Version: 1.25.1
 Date: 2019-4-16
 Author: Mark A. van de Wiel <mark.vdwiel@vumc.nl>, Putri W. Novianti <p.novianti@vumc.nl>
 Maintainer: Mark A. van de Wiel <mark.vdwiel@vumc.nl>
@@ -11,3 +11,4 @@ Description: This package allows the use of multiple sources of co-data (e.g. ex
 biocViews: Classification, Regression, Survival, Bayesian, RNASeq, GenePrediction, GeneExpression, Pathways, GeneSetEnrichment, GO, KEGG, GraphAndNetwork, ImmunoOncology
 License: GPL-3 
 LazyLoad: yes
+PackageStatus: Deprecated
